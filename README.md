@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JasonNong
-- 👀 I’m interested in automation
-- 🌱 I’m currently learning django
+- 👀 I’m interested in nothing really
+- 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
